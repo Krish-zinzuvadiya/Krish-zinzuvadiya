@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-zinzuvadiya&label=Profile%20views&color=0e75b6&style=flat" alt="krish-zinzuvadiya" /> </p>
 
-- 🔭 I’m currently working At **Colleges**
+- 🔭 I’m currently working At **College**
 
 - 📫 How to reach me **krishrami198@gmail.com**
 
