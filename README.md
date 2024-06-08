@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishrami09" target="blank"><img src="https://img.shields.io/twitter/follow/krishrami09?logo=twitter&style=for-the-badge" alt="krishrami09" /></a> </p>
 
-- 🔭 I’m currently working At **Colleges**
+- 🔭 I’m currently working At **College**
 
 - 📫 How to reach me **krishrami198@gmail.com**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krishrami09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishrami09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krish zinzuvadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish zinzuvadiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Krish Zinzuvadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish zinzuvadiya" height="30" width="40" /></a>
 <a href="https://instagram.com/krish_zinzuvadiya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish_zinzuvadiya09" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krish-zinzuvadiya&show_icons=true&locale=en" alt="krish-zinzuvadiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krish-zinzuvadiya&" alt="krish-zinzuvadiya" /></p>
+<p><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></p>
+<p><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500"></p>
