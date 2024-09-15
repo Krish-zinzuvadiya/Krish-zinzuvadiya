@@ -30,6 +30,3 @@
 ![Krish-zinzuvadiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-zinzuvadiya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![Krish-zinzuvadiya's Stats](https://github-readme-stats.vercel.app/api?username=Krish-zinzuvadiya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Krish-zinzuvadiya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krish-zinzuvadiya&theme=tokyonight&hide_border=true)
-
-<p><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></p>
-<p><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500"></p>
