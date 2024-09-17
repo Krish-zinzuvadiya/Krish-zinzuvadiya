@@ -1,3 +1,4 @@
+![alt text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aniyNTcHORbvDiLGUzJSsQ.gif)
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
