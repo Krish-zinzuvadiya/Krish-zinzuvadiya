@@ -5,9 +5,9 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/krishrami09.svg?style=social&label=Follow%20%40krishrami09)](https://twitter.com/krishrami09)
 
-- 🔭 I’m currently Studying
+- 🔭 I’m currently **Studying**
 
-- 🌱 I’m currently learning **Basic Java & Data Structure**
+- 🌱 I’m currently learning **Python And Full Stack Development**
 
 - 💬 Ask me about **Coding**
 
