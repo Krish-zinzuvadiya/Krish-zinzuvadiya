@@ -116,5 +116,5 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-zinzuvadiya&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krish-zinzuvadiya&theme=dark&show_icons=true)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Krish-zinzuvadiya?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)![Krish-zinzuvadiya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krish-zinzuvadiya&theme=tokyonight&hide_border=true)
