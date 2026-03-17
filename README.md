@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-zinzuvadiya&label=Profile%20views&color=0e75b6&style=flat" alt="krish-zinzuvadiya" /> </p>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/krishrami09.svg?style=social&label=Follow%20%40krishrami09)](https://twitter.com/krishrami09)
